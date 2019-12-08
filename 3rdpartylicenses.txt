@@ -60,22 +60,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/button
-
-@angular/material/core
-
-@angular/material/form-field
-
-@angular/material/select
-
-@angular/material/sort
-
-@angular/material/table
-
 @angular/platform-browser
 MIT
 
 @angular/router
+MIT
+
+@angular/service-worker
 MIT
 
 bootstrap

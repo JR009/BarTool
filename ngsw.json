@@ -1,0 +1,120 @@
+{
+  "configVersion": 1,
+  "timestamp": 1575804879391,
+  "index": "./index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "./favicon.ico",
+        "./index.html",
+        "./main-es2015.d8dc445b9ba542b07f5e.js",
+        "./main-es5.6b5d7060e61a23cc3b99.js",
+        "./manifest.webmanifest",
+        "./polyfills-es2015.916343cd7fb990c5a46a.js",
+        "./polyfills-es5.0faa5501378ea898ac5b.js",
+        "./runtime-es2015.858f8dd898b75fe86926.js",
+        "./runtime-es5.741402d1d47331ce975c.js",
+        "./styles.fc54c117c0646ac62c51.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "./assets/beer.jpg",
+        "./assets/cat-stairs-header_mobil.jpg",
+        "./assets/css/all.min.css",
+        "./assets/css/bootstrap.min.css",
+        "./assets/halloween.png",
+        "./assets/icons/icon-128x128.png",
+        "./assets/icons/icon-144x144.png",
+        "./assets/icons/icon-152x152.png",
+        "./assets/icons/icon-192x192.png",
+        "./assets/icons/icon-384x384.png",
+        "./assets/icons/icon-512x512.png",
+        "./assets/icons/icon-72x72.png",
+        "./assets/icons/icon-96x96.png",
+        "./assets/shelf3.jpg",
+        "./assets/webfonts/fa-regular-400.ttf",
+        "./assets/webfonts/fa-regular-400.woff",
+        "./assets/webfonts/fa-regular-400.woff2",
+        "./assets/webfonts/fa-solid-900.ttf",
+        "./assets/webfonts/fa-solid-900.woff",
+        "./assets/webfonts/fa-solid-900.woff2",
+        "./beer.bb75b599dd9f34044a2c.jpg",
+        "./cat-stairs-header_mobil.8fb87fcccd9d0476a132.jpg",
+        "./glyphicons-halflings-regular.448c34a56d699c29117a.woff2",
+        "./glyphicons-halflings-regular.89889688147bd7575d63.svg",
+        "./glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf",
+        "./glyphicons-halflings-regular.f4769f9bdb7466be6508.eot",
+        "./glyphicons-halflings-regular.fa2772327f55d8198301.woff",
+        "./shelf3.d5324f97c747bb91aa60.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "./assets/beer.jpg": "5f2c20e5cf0dde53a46a8de409af68e5b0ae9521",
+    "./assets/cat-stairs-header_mobil.jpg": "87ab9ad779a0d81cbda99aba91b72e49b753e681",
+    "./assets/css/all.min.css": "be4b62c0a84ebf689b09e619c1c88d54fecef880",
+    "./assets/css/bootstrap.min.css": "6e10354828454898fda80f55f3decb347fd9ed21",
+    "./assets/halloween.png": "caa3679454c851f851dc7028ebfbc01c9ce3fd71",
+    "./assets/icons/icon-128x128.png": "de12fe2e5c7a62ff0c79fc9a4f358f5548af8fac",
+    "./assets/icons/icon-144x144.png": "349b5a0b698262b24e8f083be42b318834579762",
+    "./assets/icons/icon-152x152.png": "1be13a65821194c5dca5d7ecb79272c0cb381d57",
+    "./assets/icons/icon-192x192.png": "15d5d7d3bbcb69b5a6d7bb9987f2d7228e80f338",
+    "./assets/icons/icon-384x384.png": "291712e1b4b784a10530201437a48ee640fa657e",
+    "./assets/icons/icon-512x512.png": "bd4673f405466cab765d888440d705cfa170e857",
+    "./assets/icons/icon-72x72.png": "84ce2925c50b93da58238efae691e6bccb01f73c",
+    "./assets/icons/icon-96x96.png": "aedbbdd7c41ccafd24be4a851443ee9e6c3a1098",
+    "./assets/shelf3.jpg": "4a87971038f9fb275c5c74739df91e79f879f592",
+    "./assets/webfonts/fa-regular-400.ttf": "deeef1fa1c3845ef4c4b5e4a92288644a16dcefc",
+    "./assets/webfonts/fa-regular-400.woff": "5ccae24e97fc82adcbc93c1f9b4810c1a159dbdc",
+    "./assets/webfonts/fa-regular-400.woff2": "9cd2abb4e9dce5fb3f54182ed06216c82ce76019",
+    "./assets/webfonts/fa-solid-900.ttf": "039cf738167d8e45ed93b60f82669070cda64c4d",
+    "./assets/webfonts/fa-solid-900.woff": "08aaf0da257b570ffcccf454a91a83d243294170",
+    "./assets/webfonts/fa-solid-900.woff2": "1793dd7561aca64d9751506879d919ade7efe325",
+    "./beer.bb75b599dd9f34044a2c.jpg": "5f2c20e5cf0dde53a46a8de409af68e5b0ae9521",
+    "./cat-stairs-header_mobil.8fb87fcccd9d0476a132.jpg": "87ab9ad779a0d81cbda99aba91b72e49b753e681",
+    "./favicon.ico": "c1e5bfd391ca082d8499fda2ae18c96425144d2e",
+    "./glyphicons-halflings-regular.448c34a56d699c29117a.woff2": "ca35b697d99cae4d1b60f2d60fcd37771987eb07",
+    "./glyphicons-halflings-regular.89889688147bd7575d63.svg": "de51a8494180a6db074af2dee2383f0a363c5b08",
+    "./glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf": "44bc1850f570972267b169ae18f1cb06b611ffa2",
+    "./glyphicons-halflings-regular.f4769f9bdb7466be6508.eot": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3",
+    "./glyphicons-halflings-regular.fa2772327f55d8198301.woff": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f",
+    "./index.html": "7455e23b709896094b9a93d43cd3e4df3874132c",
+    "./main-es2015.d8dc445b9ba542b07f5e.js": "a37d80943da533888b9ccb611ee6c8c35ea663ad",
+    "./main-es5.6b5d7060e61a23cc3b99.js": "df8c15f88f01f0adea8821612ae4c3e4a7434525",
+    "./manifest.webmanifest": "904129e3688eae7037e3c8bc52d05529a69765e7",
+    "./polyfills-es2015.916343cd7fb990c5a46a.js": "e50c17aca5fe38d70bca7e791a4aff0ea2d9094b",
+    "./polyfills-es5.0faa5501378ea898ac5b.js": "7b890df169b19ded27901278a7392bb374c9928c",
+    "./runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "./runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "./shelf3.d5324f97c747bb91aa60.jpg": "4a87971038f9fb275c5c74739df91e79f879f592",
+    "./styles.fc54c117c0646ac62c51.css": "58b488a8c8e70ec1fb4b5dccf5d9e5d1d02d371e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
