@@ -76,7 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Justin Rutkowski** - *Initial work* - [PurpleBooth](https://github.com/JR009)
+* **Justin Rutkowski**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
